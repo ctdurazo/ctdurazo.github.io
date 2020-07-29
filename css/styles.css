@@ -29,11 +29,10 @@
 }
 
 .portfolio-logo {
-  background: url(../images/durazo_technologies_alt_blue.png) 50% no-repeat;
-  background-size: cover;
+  background: url(../images/durazo_technologies_alt_blue.png) no-repeat;
+  background-size: contain;
   height: 150px;
   width: 150px;
-  margin: auto auto 10px;
 }
 
 .is-compact .portfolio-logo {
